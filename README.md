@@ -220,17 +220,10 @@ Reinstall dependencies:
 pip install -r requirements.txt --force-reinstall
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
+Your Name - [GitHub Profile](https://github.com/ved0904)
 
 ## 🙏 Acknowledgments
 
